@@ -35,4 +35,4 @@
   1. Отсутствуют фильтры по окрасу - в проде есть.
   2. Не у всех объявлений есть время - в проде тоже самое.
 
-     ![Нумерация багов](path/to/Task_1_bugs.png)
+     ![Нумерация багов](https://github.com/DeevBogdan/Avito_Test_Task/blob/main/Task_1_bugs.png)
